@@ -8,8 +8,8 @@ public class Driver {
 			
 			
 			
-		} catch (Exception e) {
-			exc.printStackTrace()
+		} catch (Exception exc) {
+			exc.printStackTrace();
 		}
 
 	}
